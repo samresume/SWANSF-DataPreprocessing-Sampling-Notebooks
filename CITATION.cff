@@ -21,12 +21,9 @@ authors:
     family-names: Filali Boubrahimi
     affiliation: Utah State University
     email: soukaina.boubrahimi@usu.edu
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.11562537
+
 repository-code: >-
-  https://github.com/samresume/FlarePredict-DataPrep-Sampling-SWANSF
-repository: 'https://doi.org/10.5281/zenodo.11562537'
+  https://github.com/samresume/SWANSF-DataPreprocessing-Sampling-Notebooks
 license: MIT
-version: v2.0.0
+version: v1.0.0
 date-released: '2024-06-11'
