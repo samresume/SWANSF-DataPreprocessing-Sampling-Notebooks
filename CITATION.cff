@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SWAN-SF Data Preprocessing and Sampling Notebooks
+message: >-
+  The paper concerning these notebooks is currently under
+  review.
+type: software
+authors:
+  - given-names: MohammadReza
+    family-names: EskandariNasab
+    email: reza.eskandarinasab@usu.edu
+    affiliation: Utah State University
+    orcid: 'https://orcid.org/0009-0004-0697-3716'
+  - given-names: Shah Muhammad
+    family-names: Hamdi
+    email: s.hamdi@usu.edu
+    affiliation: "Utah State University\t"
+  - given-names: Soukaina
+    family-names: Filali Boubrahimi
+    affiliation: Utah State University
+    email: soukaina.boubrahimi@usu.edu
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11562537
+repository-code: >-
+  https://github.com/samresume/FlarePredict-DataPrep-Sampling-SWANSF
+repository: 'https://doi.org/10.5281/zenodo.11562537'
+license: MIT
+version: v2.0.0
+date-released: '2024-06-11'
