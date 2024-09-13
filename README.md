@@ -1,5 +1,7 @@
 ## Getting Started with the SWAN-SF Data Analysis
 
+Welcome to our GitHub repository!
+
 These notebooks provide a comprehensive workflow, from start to finish, for processing and analyzing the SWAN-SF dataset. They include detailed steps for reading the dataset files, performing full preprocessing, and generating a .pkl file for the processed data. Several missing value imputation techniques are implemented, such as Mean Imputation, Next-value Imputation, and our novel method—Fast Pearson Correlation-based K-nearest Neighbors (FPCKNN) Imputation.
 
 In addition, we address class overlap with the Near Decision Boundary Sample Removal (NDBSR) technique. Various normalization methods are also applied, including Min-Max Scaling, Z-Score Normalization, and our proprietary LSBZM (Log, Square Root, BoxCox, Z-Score, and Min-Max) Normalization technique.
@@ -9,8 +11,6 @@ The notebooks further implement multiple over-sampling techniques such as SMOTE,
 The classification models used include SVM, Random Forest, k-NN, Multilayer Perceptron, LSTM, GRU, RNN, and 1D-CNN, all designed to predict solar flares within a 24-hour window.
 
 By using these files, researchers can significantly reduce the time required—by months—to preprocess the SWAN-SF dataset, while achieving high accuracy in solar flare prediction.
-
-Welcome to our GitHub repository! This guide will help you set up and run the code effectively. Our project involves multiple data preprocessing steps, so it's essential to follow the sequence correctly.
 
 <img src="meth.svg" width="600" alt="SeriesGAN Architecture" title="SeriesGAN Architecture">
 
