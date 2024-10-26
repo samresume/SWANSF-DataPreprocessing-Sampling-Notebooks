@@ -48,6 +48,23 @@ Before you start, make sure you have the following:
 
 ### Copy Right
 
-The paper associated with these notebooks is currently under review. Once it is published, we kindly ask you to provide a citation to acknowledge our work. Thank you for your cooperation.
+The paper associated with these notebooks has been published. We kindly ask you to provide a citation to acknowledge our work. Thank you for your support!
+<p><a href="https://doi.org/10.3847/1538-4365/ad7c4a" target="_blank">DOI: 10.3847/1538-4365/ad7c4a</a>.</p>
+
+```
+@article{EskandariNasab_2024,
+    doi = {10.3847/1538-4365/ad7c4a},
+    url = {https://dx.doi.org/10.3847/1538-4365/ad7c4a},
+    year = {2024},
+    month = {oct},
+    publisher = {The American Astronomical Society},
+    volume = {275},
+    number = {1},
+    pages = {6},
+    author = {MohammadReza EskandariNasab and Shah Muhammad Hamdi and Soukaina Filali Boubrahimi},
+    title = {Impacts of Data Preprocessing and Sampling Techniques on Solar Flare Prediction from Multivariate Time Series Data of Photospheric Magnetic Field Parameters},
+    journal = {The Astrophysical Journal Supplement Series}
+}
+```
 
 ---
