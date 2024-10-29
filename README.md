@@ -46,7 +46,7 @@ Before you start, make sure you have the following:
 - **Notebook 14, 15, 16, & 17**: Implement Classification using eight classifiers after Sampling.
 - **Notebook 18**: Presents Final Visualizations.
 
-### Copy Right
+### How To Cite
 
 The paper associated with these notebooks has been published. We kindly ask you to provide a citation to acknowledge our work. Thank you for your support!
 <p><a href="https://doi.org/10.3847/1538-4365/ad7c4a" target="_blank">DOI: 10.3847/1538-4365/ad7c4a</a>.</p>
